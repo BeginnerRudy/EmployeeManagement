@@ -7,7 +7,7 @@ After some search, I decide to do project-based learning for ASP.NET Core and th
 ## Goal
 After complete the video tutorial, I should be able to 
 - [X] Perform all the simple CRUD operations with ASP.NET Core. 
-- [X] Organize all the concepts and operations of ASP.NET Core into a document. -> [Note](https://github.com/BeginnerRudy/C.Sharp-Based-Stuff/blob/main/ASP.NET-Core/ASP.NET%20Core%20Note.md)
+- [X] Organize all the concepts and operations of ASP.NET Core into a document. -> [Note](https://github.com/BeginnerRudy/C.Sharp-Based-Stuff/blob/main/ASP.NET-Core/ASP.NET-Core-Note.md)
 - [X] Make the concepts and operations into Anki Cards
 - [ ] Build a _Guitar Learning Website_ to test your CRUD ability in ASP.NET Core.
 - [ ] Write a summary to record your current progress
