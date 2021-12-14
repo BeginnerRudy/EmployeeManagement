@@ -10,7 +10,7 @@ After complete the video tutorial, I should be able to
 - [X] Organize all the concepts and operations of ASP.NET Core into a document. -> [Note](https://github.com/BeginnerRudy/C.Sharp-Based-Stuff/blob/main/ASP.NET-Core/ASP.NET-Core-Note.md)
 - [X] Make the concepts and operations into Anki Cards
 - [ ] Build a _Guitar Learning Website_ to test your CRUD ability in ASP.NET Core.
-- [ ] Write a summary to record your current progress
+- [X] Write a summary to record your current progress -> [Summary](https://github.com/BeginnerRudy/C.Sharp-Based-Stuff/blob/main/ASP.NET-Core/_ASP.Net-Core-Summary.md)
 
 ## Summary
 It takes me **50 hours** to compelete the tutorials and **5 days** to orgnize the concepts and operation details. Now, I am able to perform CRUD in ASP.NET Core MVC as well as has a beginner understanding about the concepts in ASP.NET Core and how does ASP.NET Core works internally. I would do a summary for this stage to record what kind of progress I have made. 
