@@ -9,7 +9,7 @@ After complete the video tutorial, I should be able to
 - [X] Perform all the simple CRUD operations with ASP.NET Core. 
 - [X] Organize all the concepts and operations of ASP.NET Core into a document. -> [Note](https://github.com/BeginnerRudy/C.Sharp-Based-Stuff/blob/main/ASP.NET-Core/ASP.NET-Core-Note.md)
 - [X] Make the concepts and operations into Anki Cards
-- [ ] Build a _Guitar Learning Website_ to test your CRUD ability in ASP.NET Core.
+- [X] Build a _Guitar Learning Website_ to test your CRUD ability in ASP.NET Core. -> [Guitar-LMS](https://github.com/BeginnerRudy/ASP.NET-Core-Learning-Guitar_LMS)
 - [X] Write a summary to record your current progress -> [Summary](https://github.com/BeginnerRudy/C.Sharp-Based-Stuff/blob/main/ASP.NET-Core/_ASP.Net-Core-Summary.md)
 
 ## Summary
